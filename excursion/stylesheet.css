@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  margin: auto;
+  width: 50%;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+}
+
+h2 {
+  color: #fff;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  text-align: center;
+}
+
+.download-excursion {
+  text-align: center;
+}

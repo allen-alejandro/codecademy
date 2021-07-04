@@ -1,0 +1,133 @@
+
+main{
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+h1 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+}
+
+
+.colors div{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+
+.colors #blue {
+  background-color: #2d5dcc;
+}
+
+.colors #pink {
+  background-color: #d957d9;
+}
+
+.colors #green {
+  background-color: #4fe0b0;
+}
+
+.colors #beige {
+  margin-top: .5em;
+  background-color: #efd9ca;
+}
+
+.container {
+  border: rgb(187, 187, 187) 2px solid;
+  margin-bottom: .5em;
+}
+
+.font-type div {
+  display: inline-block;
+  width: 40%;
+  text-align: left;
+}
+
+.section-containers {
+  padding: 1%;
+}
+
+.title h2{
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#source-code-pro {
+  font-family: 'Source Code Pro', monospace;
+  text-decoration: underline;
+  font-size: 1.3em;
+}
+
+#source-code-pro-regular{
+  font-family: 'Source Code Pro', monospace;
+}
+
+#source-code-pro-bold{
+  font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+}
+
+#source-code-pro-italized{
+  font-family: 'Source Code Pro', monospace;
+  font-style: italic;
+}
+
+#nunito-sans {
+  font-family: 'Nunito Sans', sans-serif;
+  text-decoration: underline;
+  font-size: 1.3em;
+}
+
+#nunito-sans-regular {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#nunito-sans-bold {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: bold;
+}
+
+#nunito-sans-italized {
+  font-family: 'Nunito Sans', sans-serif;
+  font-style: italic;
+}
+
+#poppins {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: underline;
+  font-size: 1.3em;
+}
+
+#poppins-regular {
+  font-family: 'Poppins', sans-serif;
+}
+
+#poppins-bold {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+#poppins-italized {
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+}
+
+
+/* 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> */
