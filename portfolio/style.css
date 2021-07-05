@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+
+body {
+  background-color: rgba(243, 243, 241, 1);
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 3.5em;
+}
+
+h2 {
+  font-size: 1.6em;;
+}
+
+#nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 7%
+}
+
+#nav-links {
+  list-style: none;
+}
+
+#nav-links li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+
+#nav-links a{
+  text-decoration: none;
+}
+
+#nav p {
+  font-size: 1.5em;
+  font-weight: bold
+}
